@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EpackMar2018Model" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="Mar2018Entities" annotation:LazyLoadingEnabled="true">
+    <FunctionImport Name="GetStudentDetails" ReturnType="Collection(EpackMar2018Model.GetStudentDetails_Result)" />
+  </EntityContainer>
+  <ComplexType Name="GetStudentDetails_Result">
+    <Property Type="Int32" Name="StudentId" Nullable="false" />
+    <Property Type="String" Name="name" Nullable="true" MaxLength="10" />
+  </ComplexType>
+</Schema>

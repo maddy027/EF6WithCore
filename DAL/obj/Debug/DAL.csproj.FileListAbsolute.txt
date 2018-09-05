@@ -1,0 +1,14 @@
+C:\Users\biradm1\Documents\Visual Studio 2017\Projects\CoreWithEF6\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\biradm1\Documents\Visual Studio 2017\Projects\CoreWithEF6\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\biradm1\Documents\Visual Studio 2017\Projects\CoreWithEF6\DAL\bin\Debug\DAL.dll.config
+C:\Users\biradm1\Documents\Visual Studio 2017\Projects\CoreWithEF6\DAL\bin\Debug\DAL.dll
+C:\Users\biradm1\Documents\Visual Studio 2017\Projects\CoreWithEF6\DAL\bin\Debug\DAL.pdb
+C:\Users\biradm1\Documents\Visual Studio 2017\Projects\CoreWithEF6\DAL\bin\Debug\Entities.dll
+C:\Users\biradm1\Documents\Visual Studio 2017\Projects\CoreWithEF6\DAL\bin\Debug\EntityFramework.dll
+C:\Users\biradm1\Documents\Visual Studio 2017\Projects\CoreWithEF6\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\biradm1\Documents\Visual Studio 2017\Projects\CoreWithEF6\DAL\bin\Debug\Entities.pdb
+C:\Users\biradm1\Documents\Visual Studio 2017\Projects\CoreWithEF6\DAL\bin\Debug\EntityFramework.xml
+C:\Users\biradm1\Documents\Visual Studio 2017\Projects\CoreWithEF6\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\biradm1\Documents\Visual Studio 2017\Projects\CoreWithEF6\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\biradm1\Documents\Visual Studio 2017\Projects\CoreWithEF6\DAL\obj\Debug\DAL.dll
+C:\Users\biradm1\Documents\Visual Studio 2017\Projects\CoreWithEF6\DAL\obj\Debug\DAL.pdb
